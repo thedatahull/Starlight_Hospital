@@ -24,4 +24,4 @@ This project simulates real-world departments (Doctors, Nurses, Admin Staff, IT,
 ## 🔹 Getting Started
 Clone the repo:
 ```bash
-git clone git@github.com:YourUsername/starlight-hospital.git
+git clone git@github.com:thedatahull/starlight-hospital.git
